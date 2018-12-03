@@ -32,7 +32,7 @@ margin : 80px 700px auto;
 <option>어렸을때 나의 보물1호는?</option>
 <option>내가 사는 집 비밀번호는?</option>
 <option>초등학교때 선생님 성함은?</option>
-<option>전 여자친구 이름은?</option>ㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+<option>전 여자친구 이름은?</option>
 </select> <br>
 비밀번호 힌트 답변 : <INPUT TYPE = "text" NAME= "id" placeholder="답변 입력"> <br>
 <INPUT TYPE = "submit" VALUE= "찾아보기!" >
